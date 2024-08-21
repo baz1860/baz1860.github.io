@@ -27,3 +27,8 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+
+gem 'rexml', '3.3.3'
+gem 'commonmarker', '0.23.10'
+gem 'nokogiri', '1.16.5'
+gem 'activesupport', '7.0.7'
